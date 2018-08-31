@@ -1,0 +1,24 @@
+{
+  "name": "vue-ckeditor2",
+  "version": "1.0.4",
+  "description": "Ckeditor using for Vue.js 2",
+  "main": "src/ckeditor.vue",
+  "peerDependencies": {
+    "vue": ">= 2",
+    "ckeditor": ">= 4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "vue-ckeditor"
+  },
+  "keywords": [
+    "vue",
+    "ckeditor",
+    "vue-ckeditor"
+  ],
+  "author": "Dang Van Thanh <dangvanthanh@dangthanh.org>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
