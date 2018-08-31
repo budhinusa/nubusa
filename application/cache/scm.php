@@ -1,0 +1,1 @@
+{"account_default":{"site_transport_ap_po_account":"A\/P Asset"},"scm_default":{"scm_alter_po_confirm":"crmtrans|m_crmtrans|alter_scm_po_bill_out","id_scm_satuan_fuel":"HJJDKEVWNK0APHEQMBM"}}

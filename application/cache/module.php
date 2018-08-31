@@ -1,0 +1,4 @@
+<?php
+die;
+?>
+[view]mrp|mrp;set|set;master|master;hr|hr;hrfrm|hrfrm;scmfrm|scmfrm;home|home;hrmemployee|hrmemployee;login|login;menu|menu;privilege|privilege;users|users;settings|settings;hrmpayroll|hrmpayroll;hrmrecruitment|hrmrecruitment;hrmattendance|hrmattendance;scminventory|scminventory;hrmtravel|hrmtravel;pos|pos;scmprocurement|scmprocurement;tour|tour;scmoutlet|scmoutlet;frmprocurement|frmprocurement;frmpiutang|frmpiutang;frmoutlet|frmoutlet;frmhutang|frmhutang;hrm|hrm;file|file;crm|crm;hrmdevelopment|hrmdevelopment;crmpos|crmpos;cms|cms;crmpayment|crmpayment;scm|scm;hrmarchives|hrmarchives;[view]

@@ -1,0 +1,3 @@
+<?php
+die;
+?>[frm_suppliers_hutang]3 1 01 01[frm_suppliers_hutang][frm_suppliers_piutang]1 1 02 01[frm_suppliers_piutang][frm_account_pembayaran]1 1 01[frm_account_pembayaran][frm_account_penerimaan]1 1 01[frm_account_penerimaan][scm_type_inventory_bahan_baku]FYHMYK8EZCU43J[scm_type_inventory_bahan_baku][frm_inventory]1 1 03 02[frm_inventory][site_transport_partners_bs_acc_id]2122001[site_transport_partners_bs_acc_id][site_transport_partners_bs_kas_acc_id]2122000[site_transport_partners_bs_kas_acc_id][crmtrans_alter_cashier]crmtrans|m_crmtrans|alter_crm_payment_kasir[crmtrans_alter_cashier]

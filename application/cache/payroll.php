@@ -1,0 +1,3 @@
+<?php
+die;
+?>[per_jabatan]5.00[per_jabatan][max_jabatan]500000[max_jabatan][ptkp_1]54000000[ptkp_1][ptkp_2]58500000[ptkp_2][ptkp_3]63000000[ptkp_3][ptkp_4]67500000[ptkp_4][ptkp_5]58500000[ptkp_5][ptkp_6]63000000[ptkp_6][ptkp_7]67500000[ptkp_7][ptkp_8]72000000[ptkp_8][ptkp_9]112500000[ptkp_9][ptkp_10]117000000[ptkp_10][ptkp_11]121500000[ptkp_11][ptkp_12]126000000[ptkp_12][max_wp1]50000000[max_wp1][wp1]5.00[wp1][max_wp2]250000000[max_wp2][wp2]15.00[wp2][max_wp3]500000000[max_wp3][wp3]25.00[wp3][max_wp4]0[max_wp4][wp4]30.00[wp4]
