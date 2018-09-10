@@ -24,10 +24,7 @@
         </section>
       </div><!-- /.content-wrapper -->
       <footer class="main-footer">
-        <div class="pull-right hidden-xs">
-          <b>Version</b> 1.0
-        </div>
-        <strong>Copyright &copy; 2016 <a href="#">Igniter Team</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; <a href="<?php print site_url()?>">Igniter Team</a>.</strong>
       </footer>
       
       <div class='control-sidebar-bg'></div>
